@@ -1,0 +1,18 @@
+[
+	{
+		"id": 2,
+		"title": "Campera Verano",
+		"description": "Campera de Verano delgada",
+		"price": 50000,
+		"code": 28,
+		"stock": 5
+	},
+	{
+		"id": 3,
+		"title": "riñonera",
+		"description": "riñonera de jean",
+		"price": 2000,
+		"code": 14,
+		"stock": 55
+	}
+]
